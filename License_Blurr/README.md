@@ -6,4 +6,4 @@ The **cv2** library is used to detect the license plate, using the **Haar Cascad
 
 **Languages:** Python
 
-**Software: VScode**
+**Software:** VScode
