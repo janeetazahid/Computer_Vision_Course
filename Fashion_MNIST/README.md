@@ -15,6 +15,6 @@ Then the model was build. The model consists of the following layers:
   
 The model was tranined and then evaluated, using accuracy, precision, recall and f1 score.
 
-**Language:** Python
-**Software:** VSCode
-**Libraries:** Matplotlib, Keras, Sklearn
+**Language:** Python <br>
+**Software:** VSCode <br>
+**Libraries:** Matplotlib, Keras, Sklearn <br>
